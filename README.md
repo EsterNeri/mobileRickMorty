@@ -31,6 +31,7 @@ Siga os passos abaixo para clonar o repositório, instalar as dependências e ro
    *npm install*
 4. **Inicie o servidor de desenvolvimento:**
    *ionic serve*
+
 **Obs.:** Para o comando `ionic serve` funcionar corretamente, é necessário já ter o Ionic CLI instalado globalmente.
 Se ainda não tiver, instale com: *npm install -g @ionic/cli*
 
