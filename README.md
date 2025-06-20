@@ -38,11 +38,11 @@ Se ainda não tiver, instale com: *npm install -g @ionic/cli*
 ## Contribuindo com o Projeto
 1- Faça um fork do projeto
 
-2- Crie uma branch com sua funcionalidade: git checkout -b minha-feature
+2- Crie uma branch com sua funcionalidade: *git checkout -b minha-feature*
 
-3- Commit suas alterações: git commit -m 'Minha feature'
+3- Commit suas alterações: *git commit -m 'Minha feature'*
 
-4- Faça push para a branch: git push origin minha-feature
+4- Faça push para a branch: *git push origin minha-feature*
 
 5- Abra um Pull Request
 
