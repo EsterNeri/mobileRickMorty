@@ -59,7 +59,7 @@ Consulte o arquivo LICENSE para mais detalhes.
 ## Telas do Projeto
 ![Tela 1] (imagens/Tela 1 - Lista dos Personagens.jpeg)
 
-![Tela 2] (./imagens/Tela 2 - Detalhes do Personagem 01.jpeg)
+[Tela 2] (./imagens/Tela 2 - Detalhes do Personagem 01.jpeg)
 
 ![Tela 3] (./imagens/Tela 3 - Detalhes do Personagem 02.jpeg)
 
