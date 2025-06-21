@@ -57,12 +57,12 @@ Este projeto está licenciado sob a licença Creative Commons CC0.
 Consulte o arquivo LICENSE para mais detalhes.
 
 ## Telas do Projeto
-![Tela 1] (.imagens/Tela%201%20-%20Lista%20dos%20Personagens.jpeg)
+![Tela 1] (.imagens/tela1.jpeg)
 
-![Tela 2] (./imagens/Tela 2 - Detalhes do Personagem 01.jpeg)
+![Tela 2] (./imagens/tela2.jpeg)
 
-![Tela 3] (./imagens/Tela 3 - Detalhes do Personagem 02.jpeg)
+![Tela 3] (./imagens/tela3.jpeg)
 
-![Tela 4] (./imagens/Tela 4 - Detalhes do Personagem 03.jpeg)
+![Tela 4] (./imagens/tela4.jpeg)
 
-![Tela 5] (./imagens/Tela 5 - Informações do Aluno.jpeg)
+![Tela 5] (./imagens/tela5.jpeg)
