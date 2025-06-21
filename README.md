@@ -57,7 +57,7 @@ Este projeto está licenciado sob a licença Creative Commons CC0.
 Consulte o arquivo LICENSE para mais detalhes.
 
 ## Telas do Projeto
-![Tela 1](.imagens/tela1.jpeg)
+![Tela 1](./imagens/tela1.jpeg)
 
 ![Tela 2](./imagens/tela2.jpeg)
 
